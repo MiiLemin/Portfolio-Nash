@@ -1,0 +1,19 @@
+body {
+ background-color: #FFEE80; color: blue; font-family: Times New Roman; text-align: center;
+}
+
+.game-info {
+    display: none; 
+    background-color: #cf6e63;
+  color: #2c17a3;
+    padding: 10px;
+    border-radius: 10px;
+    width: 60%;
+    margin-top: 10px;
+
+}
+
+.game-image {width: 100px; height: 100px; border-radius: 24px;}
+
+
+.game-container {display: inline-flex; margin: 10px;}
